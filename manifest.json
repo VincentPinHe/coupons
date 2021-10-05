@@ -1,6 +1,6 @@
 {
-    "name" : "外卖专享优惠",
-    "appid" : "",
+    "name" : "胖胖猫3号外卖优惠",
+    "appid" : "__UNI__C024431",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -42,10 +42,11 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wxa7d956848591b061",
         "setting" : {
             "urlCheck" : true,
-            "minified" : true
+            "minified" : true,
+            "postcss" : true
         }
     },
     "h5" : {
